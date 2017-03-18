@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/AbdallahSamara/AndroidStudioProjects/selfChat/bilal/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/AbdallahSamara/AndroidStudioProjects/selfChat/bilal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_80afd34cb7ce24ef4175d5de1d2c5d059fff325d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AbdallahSamara/AndroidStudioProjects/selfChat/bilal/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="240e8b34f24390171d55af68902460772076f8f1">
+        <dex dex="/Users/AbdallahSamara/AndroidStudioProjects/selfChat/bilal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_abc2251ea061947d22136dfade652e28b093709f/classes.dex" />
+    </item>
+
+</items>
